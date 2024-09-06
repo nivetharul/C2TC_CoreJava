@@ -1,7 +1,6 @@
-package Com.tns.day3;
+package com.tns.day3;
 
-public class AcessModified1  {
-
+public class AcessModified1 {
 	public static void main(String[] args) {
 		AcessModified ac = new AcessModified();
 		System.out.println("Same package but different class");
@@ -18,5 +17,6 @@ public class AcessModified1  {
 	
 
 	}
+
 
 }

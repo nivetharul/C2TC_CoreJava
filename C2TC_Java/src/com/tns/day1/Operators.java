@@ -1,8 +1,6 @@
-package Com.tns.day1;
+package com.tns.day1;
 
-public class Operator {
-
-	
+public class Operators {
 
 	public static void main(String[] args) {
 		int a=10;
@@ -35,6 +33,8 @@ public class Operator {
 		System.out.println("Decrement "+dec);
 		int dec1=--a;
 		System.out.println("Decrement "+dec1);
+
+
 
 
 	}
