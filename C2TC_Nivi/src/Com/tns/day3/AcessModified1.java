@@ -6,11 +6,11 @@ public class AcessModified1  {
 		AcessModified ac = new AcessModified();
 		System.out.println("Same package but different class");
 		System.out.println(ac.pubval);
-		//System.out.println(ac.prival); because the private is access only that class // 
+		//System.out.println(ac.prival);  because private access the one class //  
 		System.out.println(ac.defval);
 		System.out.println(ac.proval);
 		
-        
+        // ac.pubval(); //
 		ac.priMethod();
 		ac.proMethod();
 		ac.defMethod();
